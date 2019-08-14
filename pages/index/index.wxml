@@ -1,0 +1,115 @@
+<!-- 编写思路和网页一致
+     .wxml中写结构
+     .wxss中写样式
+     .js中写业务逻辑
+ -->
+<swiper indicator-dots indicator-color="rgba(255, 255, 255,.6)"
+indicator-active-color="#fff" autoplay interval="3000" circular>
+  <swiper-item>
+    <image src="../../static/uploads/slide_1.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="../../static/uploads/slide_2.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="../../static/uploads/slide_3.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="../../static/uploads/slide_4.jpg"></image>
+  </swiper-item>
+  <swiper-item>
+    <image src="../../static/uploads/slide_5.jpg"></image>
+  </swiper-item>
+</swiper>
+
+<!-- 小程序中view相当于网页中的div 块级元素 
+     navigator 相当于 a标签
+     text  相当于  span  行内元素
+-->
+
+<!-- 活动标题 -->
+<view class="title">乐园活动</view>
+<!-- 活动列表 -->
+<view class="item">
+  <navigator url="">
+    <image src="/static/uploads/item_1.png"></image>
+  </navigator>
+  <!-- 相关信息 -->
+  <view class="info">
+    <view class="name">
+      疯狂的红包 不一样的撕名牌 大型家庭亲自户外活动
+    </view>
+    <!-- 其他 -->
+    <view class="extra">
+    <text>200人已报名</text>
+    <text>本周六开始</text>
+    </view>
+    <!-- 状态 -->
+    <view class="status">
+      免费
+    </view>
+  </view>
+</view>
+
+<view class="item">
+  <navigator url="">
+    <image src="/static/uploads/item_2.png"></image>
+  </navigator>
+  <!-- 相关信息 -->
+  <view class="info">
+    <view class="name">
+      摄影兴趣班- 7天教会你精通摄影，培养孩子兴趣从娃娃抓起
+    </view>
+    <!-- 其他 -->
+    <view class="extra">
+    <text>200人已报名</text>
+    <text>本周六开始</text>
+    </view>
+    <!-- 状态 -->
+    <view class="status">
+      免费
+    </view>
+  </view>
+</view>
+
+<view class="item">
+  <navigator url="">
+    <image src="/static/uploads/item_3.png"></image>
+  </navigator>
+  <!-- 相关信息 -->
+  <view class="info">
+    <view class="name">
+      疯狂的红包 不一样的撕名牌 大型家庭亲自户外活动
+    </view>
+    <!-- 其他 -->
+    <view class="extra">
+    <text>200人已报名</text>
+    <text>本周六开始</text>
+    </view>
+    <!-- 状态 -->
+    <view class="status">
+      免费
+    </view>
+  </view>
+</view>
+
+<view class="item">
+  <navigator url="">
+    <image src="/static/uploads/item_4.png"></image>
+  </navigator>
+  <!-- 相关信息 -->
+  <view class="info">
+    <view class="name">
+      疯狂的红包 不一样的撕名牌 大型家庭亲自户外活动
+    </view>
+    <!-- 其他 -->
+    <view class="extra">
+    <text>200人已报名</text>
+    <text>本周六开始</text>
+    </view>
+    <!-- 状态 -->
+    <view class="status">
+      免费
+    </view>
+  </view>
+</view>
