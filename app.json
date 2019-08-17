@@ -10,15 +10,15 @@
     "navigationBarTextStyle": "white"
   },
   "tabBar": {
-    "backgroundColor":"#feca49",
-    "color":"#d78b09",
-    "selectedColor":"#fff",
-    "list":[
+    "backgroundColor": "#feca49",
+    "color": "#d78b09",
+    "selectedColor": "#fff",
+    "list": [
       {
-      "text":"首页",
-      "pagePath":"pages/index/index",
-      "iconPath":"icons/home-default.png",
-      "selectedIconPath":"icons/home-active.png"
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "icons/home-default.png",
+        "selectedIconPath": "icons/home-active.png"
       },
       {
         "text": "卡券",

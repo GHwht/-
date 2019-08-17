@@ -6,19 +6,23 @@
 <swiper indicator-dots indicator-color="rgba(255, 255, 255,.6)"
 indicator-active-color="#fff" autoplay interval="3000" circular>
   <swiper-item>
-    <image src="../../static/uploads/slide_1.jpg"></image>
+    <image src="https://ghwht.github.io/-/static/uploads/content_1.png"></image>
   </swiper-item>
+
   <swiper-item>
-    <image src="../../static/uploads/slide_2.jpg"></image>
+    <image src="https://ghwht.github.io/-/static/uploads/slide_2.jpg"></image>
   </swiper-item>
+
   <swiper-item>
-    <image src="../../static/uploads/slide_3.jpg"></image>
+    <image src="https://ghwht.github.io/-/static/uploads/slide_3.jpg"></image>
   </swiper-item>
+
   <swiper-item>
-    <image src="../../static/uploads/slide_4.jpg"></image>
+    <image src="https://ghwht.github.io/-/static/uploads/slide_4.jpg"></image>
   </swiper-item>
+
   <swiper-item>
-    <image src="../../static/uploads/slide_5.jpg"></image>
+    <image src="https://ghwht.github.io/-/static/uploads/slide_5.jpg"></image>
   </swiper-item>
 </swiper>
 
@@ -32,7 +36,7 @@ indicator-active-color="#fff" autoplay interval="3000" circular>
 <!-- 活动列表 -->
 <view class="item">
   <navigator url="">
-    <image src="/static/uploads/item_1.png"></image>
+    <image src="https://ghwht.github.io/-/static/uploads/item_1.png"></image>
   </navigator>
   <!-- 相关信息 -->
   <view class="info">
@@ -53,7 +57,7 @@ indicator-active-color="#fff" autoplay interval="3000" circular>
 
 <view class="item">
   <navigator url="">
-    <image src="/static/uploads/item_2.png"></image>
+    <image src="https://ghwht.github.io/-/static/uploads/item_2.png"></image>
   </navigator>
   <!-- 相关信息 -->
   <view class="info">
@@ -74,7 +78,7 @@ indicator-active-color="#fff" autoplay interval="3000" circular>
 
 <view class="item">
   <navigator url="">
-    <image src="/static/uploads/item_3.png"></image>
+    <image src="https://ghwht.github.io/-/static/uploads/item_3.png"></image>
   </navigator>
   <!-- 相关信息 -->
   <view class="info">
@@ -95,7 +99,7 @@ indicator-active-color="#fff" autoplay interval="3000" circular>
 
 <view class="item">
   <navigator url="">
-    <image src="/static/uploads/item_4.png"></image>
+    <image src="https://ghwht.github.io/-/static/uploads/item_4.png"></image>
   </navigator>
   <!-- 相关信息 -->
   <view class="info">
